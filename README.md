@@ -10,4 +10,4 @@ _italics_
 -4  
 
 [sleeper](https://sleeper.com/leagues/863894914155597824/matchup)
-![picture](/users/frank/Downloads/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg)
+![picture](france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg)
